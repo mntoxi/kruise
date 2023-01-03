@@ -3,4 +3,4 @@ name: "Security and Quality"
 queries:
   - uses: security-and-quality
   - name: my codeql rules
-    uses: ./rule
+    uses: ./.github/rule
